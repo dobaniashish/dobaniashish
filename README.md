@@ -11,7 +11,7 @@ A Fullstack Web Developer, started my journey in 2013.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dobaniashish/).
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: Used to repair computers 🖥️ for money.
+- ⚡ Fun fact: Used to repair computers 🛠️ for money.
 - 🖥️ Working from home since before it was cool.
 
 ### Skills & Tech Stack
