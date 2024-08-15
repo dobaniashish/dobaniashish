@@ -18,7 +18,7 @@ A Fullstack Web Developer, started my journey in 2013.
 
 - 👨‍💻 Languages: PHP, JavaScript, CSS, Dart, Python.
 - 🧩 Libraries & Frameworks: CodeIgniter, Vue.js, Less CSS, React, Sass, Flutter, jQuery, UIkit.
-- 🛠️ Services & Tools: Git, GitHub, Node.js, Firebase.
+- 🛠️ Services & Tools: Git, GitHub, Node.js, Firebase, Webpack.
 - 🖌️ Design Tools: Photoshop, Illustrator, XD.
 
 Feel free to get in touch with me! 😊
