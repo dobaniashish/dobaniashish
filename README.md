@@ -2,12 +2,10 @@
 
 I am Ashish.
 
-A Fullstack Web Developer, started my journey in 2013.
+A Full Stack Web Developer, started my journey in 2013.
 
-- 🔭 I’m currently working on [UIkit Blocks](https://github.com/dobaniashish/uikit-blocks).
-- 🌱 I’m currently learning WordPress Gutenberg.
-- 👯 I’m looking to collaborate on anything WordPress/CodeIgniter related.
-- 🤔 I’m looking for help with contributing in a PHP/WordPress/Product based company.
+- 🔭 I’m currently working on AI based products.
+- 👯 I’m looking to collaborate on AI products.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dobaniashish/).
 - 😄 Pronouns: he/him.
@@ -17,7 +15,7 @@ A Fullstack Web Developer, started my journey in 2013.
 ### Skills & Tech Stack
 
 - 👨‍💻 Languages: PHP, JavaScript, CSS, Dart, Python.
-- 🧩 Libraries & Frameworks: CodeIgniter, Vue.js, Less CSS, React, Sass, Flutter, jQuery, UIkit.
+- 🧩 Libraries & Frameworks: CodeIgniter, Laravel, Next.js, React.js, Vue.js, Less CSS, Sass, Flutter, UIkit.
 - 🛠️ Services & Tools: Git, GitHub, Node.js, Firebase, Webpack.
 - 🖌️ Design Tools: Photoshop, Illustrator, XD.
 
